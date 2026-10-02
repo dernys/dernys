@@ -335,16 +335,6 @@ Production Readiness
 
 ---
 
-# 🐍 Contribution Graph
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/dernys/dernys/output/github-contribution-grid-snake.svg">
-
-</p>
-
----
-
 # 🎯 Currently Building
 
 ```text
